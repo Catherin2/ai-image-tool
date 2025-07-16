@@ -1,2 +1,1 @@
-# ai-image-tool
-AI Image classifying tool built with Python, Streamlit, TensorFlow
+An AI image classiftying tool using streamlit, opencv-python, tensorflow and python v 3.12
