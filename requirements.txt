@@ -1,11 +1,6 @@
-cv2
-numpy 
+streamlit
 tensorflow 
-streamlit 
-keras.applications.mobilenet_v2 
-MobileNetV2,
-preprocess_input,
-decode_predictions
+opencv_python
 PIL
 
 
